@@ -1,5 +1,7 @@
-# Affiliates - Free Jekyll Theme
+# demo blog
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+Open terminal and run:
 
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+```bash
+git clone https://github.com/volantis-x/demo.git && cd demo && npm i && hexo s
+```
